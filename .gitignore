@@ -8,6 +8,11 @@
 !*/coreapplication/src/*
 !*/coreapplication/vendor/*
 .phpintel/
+coresystem/
+coreapplication/modules/
+coreapplication/vendor/
+coreapplication/src/
+assets/cache/
 # =========================
 # Operating System Files
 # =========================
