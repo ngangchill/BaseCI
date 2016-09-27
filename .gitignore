@@ -4,7 +4,9 @@
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
-
+!*/.phpintel/*
+!*/coreapplication/src/*
+!*/coreapplication/vendor
 # =========================
 # Operating System Files
 # =========================
